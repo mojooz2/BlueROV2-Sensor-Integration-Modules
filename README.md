@@ -4,7 +4,7 @@
 
 Two mechanical sensor-mounting projects developed during a research internship at **POSTECH Hazardous and Extreme Environment Robotics (HERO) Lab**. Both modules were designed for integration with the **BlueROV2** remotely operated underwater vehicle.
 
-![Full BlueROV2 CAD assembly](assets/renders/bluerov2_full_assembly_cad_1.png)
+![Full BlueROV2 CAD assembly](media/renders/bluerov2_full_assembly_cad_1.png)
 
 ## Overview
 
@@ -23,21 +23,21 @@ A mechanical mounting assembly for positioning an underwater laser camera with t
 
 | Complete module | Alternate view |
 |---|---|
-| ![Laser camera module CAD](assets/renders/bluerov2_laser_module_cad_1.png) | ![Laser camera module CAD alternate](assets/renders/bluerov2_laser_module_cad_2.png) |
+| ![Laser camera module CAD](media/renders/bluerov2_laser_module_cad_1.png) | ![Laser camera module CAD alternate](media/renders/bluerov2_laser_module_cad_2.png) |
 
-![Laser camera module CAD underside](assets/renders/bluerov2_laser_module_cad_3.png)
+![Laser camera module CAD underside](media/renders/bluerov2_laser_module_cad_3.png)
 
 ### Fabricated assembly
 
 | Physical installation | Underside view |
 |---|---|
-| ![Laser camera mount installed](assets/photos/bluerov2_laser_module_1.png) | ![Laser camera mount underside](assets/photos/bluerov2_laser_module_2.png) |
+| ![Laser camera mount installed](media/photos/bluerov2_laser_module_1.png) | ![Laser camera mount underside](media/photos/bluerov2_laser_module_2.png) |
 
 ### Underwater operation
 
-![Underwater demonstration](assets/media/bluerov2_lasermodule_video1_gif_version.gif)
+![Underwater demonstration](media/videos/bluerov2_lasermodule_video1_gif_version.gif)
 
-[Underwater operation (MP4)](assets/media/bluerove2_lasermodule_video1.mp4) · [Full assembly video (MOV)](assets/media/bluerov2_full_assembly_video.mov)
+[Underwater operation (MP4)](media/videos/bluerove2_lasermodule_video1.mp4) · [Full assembly video (MOV)](media/videos/bluerov2_full_assembly_video.mov)
 
 **CAD:** [6 STEP components](modules/laser-camera-pan-tilt/CAD/STEP/)
 
@@ -58,15 +58,15 @@ A modular, truss-supported mounting structure for the **Oculus M1200d imaging so
 
 | Sonar mounting assembly | Truss and interface details |
 |---|---|
-| ![Sonar mount CAD](assets/renders/bluerov2_sonar_module_cad_1.png) | ![Sonar truss CAD](assets/renders/bluerov2_sonar_module_cad_2.png) |
+| ![Sonar mount CAD](media/renders/bluerov2_sonar_module_cad_1.png) | ![Sonar truss CAD](media/renders/bluerov2_sonar_module_cad_2.png) |
 
-![Additional sonar mount CAD view](assets/renders/bluerov2_sonar_module_cad_3.png)
+![Additional sonar mount CAD view](media/renders/bluerov2_sonar_module_cad_3.png)
 
 ### Fabricated assembly
 
 | Installed sonar mount | Alternate integration view |
 |---|---|
-| ![Sonar mount installed](assets/photos/bluerov2_sonar_module_1.png) | ![Sonar mount integration](assets/photos/bluerov2_sonar_module_2.png) |
+| ![Sonar mount installed](media/photos/bluerov2_sonar_module_1.png) | ![Sonar mount integration](media/photos/bluerov2_sonar_module_2.png) |
 
 **CAD:** [7 STEP components](modules/sonar-mount/CAD/STEP/)
 
@@ -84,7 +84,7 @@ A modular, truss-supported mounting structure for the **Oculus M1200d imaging so
 
 | Front CAD view | Rear CAD view |
 |---|---|
-| ![Integrated BlueROV2 front](assets/renders/bluerov2_full_assembly_cad_1.png) | ![Integrated BlueROV2 rear](assets/renders/bluerov2_full_assembly_cad_2.png) |
+| ![Integrated BlueROV2 front](media/renders/bluerov2_full_assembly_cad_1.png) | ![Integrated BlueROV2 rear](media/renders/bluerov2_full_assembly_cad_2.png) |
 
 The two modules are documented together because they share the BlueROV2 integration platform. The provided STEP models represent individual parts; no verified native, constrained CAD assembly is included.
 
@@ -92,9 +92,9 @@ The two modules are documented together because they share the BlueROV2 integrat
 
 - `modules/laser-camera-pan-tilt/CAD/STEP/` — six laser camera mount component models
 - `modules/sonar-mount/CAD/STEP/` — seven sonar mount component models
-- `assets/renders/` — module and integrated-platform CAD images
-- `assets/photos/` — fabricated hardware and integration photographs
-- `assets/media/` — underwater GIF and video demonstrations
+- `media/renders/` — module and integrated-platform CAD images
+- `media/photos/` — fabricated hardware and integration photographs
+- `media/videos/` — underwater GIF and video demonstrations
 
 ## Engineering notes
 
