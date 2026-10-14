@@ -71,9 +71,9 @@ A modular, truss-supported mounting structure for the **Oculus M1200d imaging so
 
 | Truss and interface details (Front view) | Back view |
 |---|---|
-| ![Sonar mount CAD](media/renders/bluerov2_sonar_module_cad_1.png) | ![Sonar truss CAD](media/renders/bluerov2_sonar_module_cad_2.png) |
+| ![Sonar mount CAD](media/renders/bluerov2_sonar_module_cad_2.png) | ![Sonar truss CAD](media/renders/bluerov2_sonar_module_cad_3.png) |
 
-![Additional sonar mount CAD view](media/renders/bluerov2_sonar_module_cad_3.png)
+![Additional sonar mount CAD view](media/renders/bluerov2_sonar_module_cad_1.png)
 
 ### Fabricated assembly
 
