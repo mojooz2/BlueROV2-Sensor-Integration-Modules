@@ -32,11 +32,11 @@ A mechanical mounting assembly for positioning an underwater laser camera with *
 
 ### CAD design
 
-| Complete module | Alternate view |
+| Front view | Back view |
 |---|---|
-| ![Laser camera module CAD](media/renders/bluerov2_laser_module_cad_1.png) | ![Laser camera module CAD alternate](media/renders/bluerov2_laser_module_cad_2.png) |
+| ![Laser camera module CAD](media/renders/bluerov2_laser_module_cad_2.png) | ![Laser camera module CAD alternate](media/renders/bluerov2_laser_module_cad_3.png) |
 
-![Laser camera module CAD underside](media/renders/bluerov2_laser_module_cad_3.png)
+![Laser camera module CAD underside](media/renders/bluerov2_laser_module_cad_1.png)
 
 ### Fabricated assembly
 
