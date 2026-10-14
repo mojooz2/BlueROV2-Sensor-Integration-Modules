@@ -121,7 +121,7 @@ The two modules are documented together because they share the BlueROV2 integrat
 
 ## Outcomes and scope
 
-Both designs progressed beyond CAD to fabricated mounting hardware and physical integration with BlueROV2. The laser-camera project also includes underwater demonstration footage. The sonar mounting concept supports alternative 45° and 90° orientations; the available documentation does not establish that both configurations were separately validated underwater.
+Both designs progressed beyond CAD to fabricated mounting hardware and physical integration with the BlueROV2. The laser-camera project also includes underwater demonstration footage. The sonar mounting concept supports alternative 45° and 90° orientations; the available documentation does not establish that both configurations were separately validated underwater.
 
 ## Engineering notes
 
