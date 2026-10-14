@@ -6,7 +6,17 @@ This repository documents the **mechanical design, CAD modelling, prototyping, a
 
 The two projects are a **two-axis underwater laser camera pan–tilt mount** and a **modular Oculus M1200d imaging sonar mount** with configurations for 45° and 90° sonar beam orientations. The work focused on translating sensor-integration requirements into manufacturable mechanical components and installed hardware.
 
-![Full BlueROV2 CAD assembly](media/renders/bluerov2_full_assembly_cad_1.png)
+## BlueROV2 in operation and CAD
+
+| Underwater operation — view 1 | Underwater operation — view 2 |
+|:---:|:---:|
+| ![BlueROV2 underwater operation with integrated sensor modules, first video frame](media/photos/bluerov2_full_assembly_1.png) | ![BlueROV2 underwater operation with integrated sensor modules, second video frame](media/photos/bluerov2_full_assembly_2.png) |
+
+*Underwater photographs captured from the BlueROV2 demonstration video footage.*
+
+![Full BlueROV2 CAD assembly with integrated sensor mounts](media/renders/bluerov2_full_assembly_cad_1.png)
+
+*CAD overview of the integrated BlueROV2 sensor-mounting assemblies.*
 
 ## Overview
 
