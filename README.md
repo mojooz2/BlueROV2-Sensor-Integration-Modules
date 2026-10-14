@@ -48,7 +48,7 @@ A mechanical mounting assembly for positioning an underwater laser camera with *
 
 ![Underwater demonstration](media/videos/bluerov2_lasermodule_video1_gif_version.gif)
 
-The GIF above provides an inline demonstration. The full-resolution MP4 is managed separately using Git LFS; its public download path should be confirmed before linking here.
+The GIF above provides an inline demonstration. [Watch or download the full-resolution underwater operation video (MP4)](media/videos/bluerov2_lasermodule_video1.mp4). The MP4 is tracked using Git LFS.
 
 **CAD:** Six individual STEP component models are provided under the [laser-camera-pan-tilt module](modules/laser-camera-pan-tilt/).
 
